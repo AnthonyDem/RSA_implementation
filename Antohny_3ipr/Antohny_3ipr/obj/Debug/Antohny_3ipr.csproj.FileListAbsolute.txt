@@ -1,0 +1,9 @@
+C:\Users\Anthony\source\repos\Antohny_3ipr\Antohny_3ipr\bin\Debug\Antohny_3ipr.exe.config
+C:\Users\Anthony\source\repos\Antohny_3ipr\Antohny_3ipr\bin\Debug\Antohny_3ipr.exe
+C:\Users\Anthony\source\repos\Antohny_3ipr\Antohny_3ipr\bin\Debug\Antohny_3ipr.pdb
+C:\Users\Anthony\source\repos\Antohny_3ipr\Antohny_3ipr\obj\Debug\Antohny_3ipr.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\Antohny_3ipr\Antohny_3ipr\obj\Debug\Antohny_3ipr.Form1.resources
+C:\Users\Anthony\source\repos\Antohny_3ipr\Antohny_3ipr\obj\Debug\Antohny_3ipr.Properties.Resources.resources
+C:\Users\Anthony\source\repos\Antohny_3ipr\Antohny_3ipr\obj\Debug\Antohny_3ipr.csproj.GenerateResource.cache
+C:\Users\Anthony\source\repos\Antohny_3ipr\Antohny_3ipr\obj\Debug\Antohny_3ipr.exe
+C:\Users\Anthony\source\repos\Antohny_3ipr\Antohny_3ipr\obj\Debug\Antohny_3ipr.pdb
